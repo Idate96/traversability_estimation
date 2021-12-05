@@ -5,6 +5,6 @@ footprint:
   circular_footprint_radius_inscribed: 0.30
   circular_footprint_offset: 0.15
   footprint_frame_id: base
-  traversability_default: 0.3
+  traversability_default: 0.0
   verify_roughness_footprint: false
   check_robot_inclination: false
